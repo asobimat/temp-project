@@ -1,0 +1,27 @@
+{
+  "name": "temp-project",
+  "version": "1.0.0",
+  "description": "temp project to dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asobimat/temp-project.git"
+  },
+  "author": "Asobimat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asobimat/temp-project/issues"
+  },
+  "homepage": "https://github.com/asobimat/temp-project#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-router": "^4.3.1",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
